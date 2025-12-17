@@ -14,3 +14,5 @@ __pycache__/
 data/multitemporal/
 data/all_dates_raw/
 data/dem/
+
+.conda/
