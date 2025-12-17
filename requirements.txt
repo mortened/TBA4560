@@ -1,0 +1,13 @@
+pathlib
+datetime
+dotenv
+numpy
+matplotlib
+seaborn
+pandas
+geopandas
+scipy.ndimage
+rasterio
+scipy
+rasterio.mask
+rasterio.transform

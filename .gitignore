@@ -1,0 +1,16 @@
+.venv
+.venv/
+
+.DS_Store
+DS_Store
+
+__pycache__/
+.*__pycache__*
+.*__pycache__*
+.*__pycache__*
+
+.env
+
+data/multitemporal/
+data/all_dates_raw/
+data/dem/
